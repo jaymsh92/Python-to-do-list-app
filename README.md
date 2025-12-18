@@ -1,2 +1,2 @@
 # Python-to-do-list-app
-Creating a to-po list application using python
+Creating a to-do list application using to-po
